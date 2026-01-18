@@ -5,7 +5,7 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## English
 
 ### Description
 This script allows you to automatically send **Google Forms** responses to a **Discord** channel via a Webhook. It is designed to be generic and works directly from the Google Script Editor (Google Apps Script in the Google Forms settings).
@@ -35,7 +35,7 @@ This script allows you to automatically send **Google Forms** responses to a **D
 ---
 
 <a name="français"></a>
-## 🇫🇷 Français
+## Français
 
 ### Description
 Ce script permet d'envoyer automatiquement les réponses d'un **Google Forms** vers un salon **Discord** via un Webhook. Il est conçu pour être générique et fonctionne directement depuis l'éditeur de script Google (Google app scripts dans les paramètres du formulaire Google Forms)
